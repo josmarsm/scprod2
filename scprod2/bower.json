@@ -1,14 +1,13 @@
 {
-  "name": "startbootstrap-sb-admin-2",
-  "homepage": "http://startbootstrap.com/template-overviews/sb-admin-2/",
-  "version": "3.3.7+1",
+  "name": "scprod2",
+  "version": "1.4",
   "authors": [
-    "David Miller"
+    "Josmar Nuernberg"
   ],
-  "description": "A free, open source, Bootstrap admin theme created by Start Bootstrap",
+  "description": "Sistema de Controle de Produção",
   "keywords": [
-    "bootstrap",
-    "theme"
+    "scprod",
+    "ppgi"
   ],
   "license": "MIT",
   "ignore": [
